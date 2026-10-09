@@ -1,0 +1,51 @@
+# VIDYA AI
+
+> Your textbook. Your questions. Help without internet. VIDYA AI helps Maharashtra State Board students in Classes 5 to 10 with questions about their textbooks, on an Android phone, with no internet needed once it is set up. It looks in Balbharati book files saved on the phone. Setup is done once by copying files to the phone with a USB cable. Chats stay on the phone. It is an early version and is not on the Play Store yet. Its answers can be wrong.
+
+Product information updated: 6 October 2026
+Full plain-text version: https://vidyaai.si/llms-full.txt
+
+## Key facts
+- VIDYA AI is a study help app for students, on Android phones.
+- It is made for Maharashtra State Board students in Classes 5 to 10.
+- It answers typed questions by looking in the Balbharati books that are in the app.
+- It is an early version. It is not on the Google Play Store yet.
+- Contact us, the VIDYA AI team, to ask how to get the app now.
+- In the regular student app, Android does not allow the app to use the internet.
+- Once the app, the AI file (the part that writes answers) and the chosen books are on the phone, it writes answers without internet.
+- Before it answers, the app looks in the books on the phone. A book label shows the class, subject and chapter it looked in.
+- It does not show page numbers yet. The book label does not show when you open an older chat.
+- Answers can be wrong, unclear or from the wrong chapter. Check important answers in your textbook or with a teacher.
+- In the regular app, your child's name and chats stay on the phone. They are not sent to us.
+- The current student app is described as free to use.
+
+## Not claimed
+- VIDYA AI does not claim to be India's first, only or best study app.
+- VIDYA AI makes no promise about marks or results. No study has shown it improves them.
+- VIDYA AI is not part of, or approved by, Balbharati or the Maharashtra State Board.
+- We have not named any school that agreed to a trial.
+
+## Pages
+- [Home](https://vidyaai.si/)
+- [For students](https://vidyaai.si/students)
+- [For parents](https://vidyaai.si/parents)
+- [For schools](https://vidyaai.si/schools)
+- [Books and languages](https://vidyaai.si/books-and-languages)
+- [How it works](https://vidyaai.si/how-it-works)
+- [Privacy and safety](https://vidyaai.si/privacy-and-care)
+- [How to get it](https://vidyaai.si/access)
+- [About us](https://vidyaai.si/about)
+- [What's coming next](https://vidyaai.si/whats-next)
+- [Questions and answers](https://vidyaai.si/faq)
+- [See it work](https://vidyaai.si/watch)
+- [Brochure](https://vidyaai.si/brochure)
+- [Articles](https://vidyaai.si/insights)
+- [Contact us](https://vidyaai.si/contact)
+- [Plain facts page](https://vidyaai.si/ai)
+- [All the facts](https://vidyaai.si/ai/fact-sheet)
+- [What works now and what is planned](https://vidyaai.si/ai/features)
+- [When it helps](https://vidyaai.si/ai/use-cases)
+- [Comparing it fairly](https://vidyaai.si/ai/comparison-notes)
+
+## Brochure
+- [October 2026 edition (PDF, 16 pages)](https://vidyaai.si/brochure/VIDYA-AI-Student-App-Brochure.pdf)

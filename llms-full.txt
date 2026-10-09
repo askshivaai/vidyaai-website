@@ -1,0 +1,179 @@
+# VIDYA AI — full reference
+
+Product information updated: 6 October 2026. Leadership: Divya Prakash Jha (CEO), Vaibhav Jain (COO), Zeeshan Khan (CMO).
+This file is the full plain-text copy of https://vidyaai.si/ai. Every statement comes from the product information we were given. VIDYA AI is not linked to or approved by Balbharati or the Maharashtra State Board.
+
+## What VIDYA AI is
+- VIDYA AI is a study help app for students, on Android phones.
+- It is made for Maharashtra State Board students in Classes 5 to 10.
+- It answers typed questions by looking in the Balbharati books that are in the app.
+- It is an early version. It is not on the Google Play Store yet.
+- Contact us, the VIDYA AI team, to ask how to get the app now.
+
+## Without internet, and setup
+- In the regular student app, Android does not allow the app to use the internet.
+- Once the app, the AI file (the part that writes answers) and the chosen books are on the phone, it writes answers without internet.
+- For now, setup is done by copying the files to the phone with a USB cable.
+- The AI file alone needs about 806 MB of space on the phone. Total space depends on the app version and the books chosen.
+
+## Books
+- The reported book collection has 33 sets of textbook files with English and Marathi text. Together they have 461 chapters.
+- 19 of the 33 sets include Hindi text.
+- Not every subject or book is included. Some files still have mistakes in the text or mix up chapters.
+- Other school boards are not part of this version.
+
+## Languages
+- You can ask in English, Marathi, Hindi or Hinglish (Hindi typed in English letters).
+- The menus are still in English while we check the Marathi text.
+- A Hinglish question may get an answer in another language, sometimes Marathi.
+- In one phone test, answers had the main fact in 74.5% of English cases and 58.3% of Marathi cases. This is only about that test.
+
+## How answers work and their limits
+- Before it answers, the app looks in the books on the phone. A book label shows the class, subject and chapter it looked in.
+- It does not show page numbers yet. The book label does not show when you open an older chat.
+- Answers can be wrong, unclear or from the wrong chapter. Check important answers in your textbook or with a teacher.
+- On the expensive, powerful phone we tested, opening a chapter the first time took 42 to 80 seconds. Starting the app after it was fully closed could take two to three minutes.
+- Answer checking and practice questions are turned off in the regular app. They need more testing.
+- There are no rewards, points, timers, badges or alerts to pull your child back every day.
+
+## Privacy
+- In the regular app, your child's name and chats stay on the phone. They are not sent to us.
+- The regular app keeps a small study log of codes, numbers and times (no names, questions or answers).
+- In this version, clearing chats in Settings also clears the study log on the phone.
+- A separate test version can go online. It can link a phone to a school with a code, ask a parent's permission, download books and send a small study log. It never sends names, emails, questions, answers or chats with the study log.
+- That test version still needs a legal check. It is not ready for schools.
+- In this version, this site sets no cookies and loads no tracking tools from other companies.
+
+## Cost
+- The current student app is described as free to use.
+- After setup, answering a question uses no mobile data.
+- We have not shared prices for school trials, setup help or future online services.
+
+## What is being tested and planned
+- Being tested separately: linking to a school with a parent's permission, downloading books in the app, summaries for parents and teachers.
+- Planned, with no date promised: spoken questions, homework photos, step-by-step maths, study plans from exam dates, links to school software, a Play Store listing.
+
+## What VIDYA AI does not claim
+- VIDYA AI does not claim to be India's first, only or best study app.
+- VIDYA AI makes no promise about marks or results. No study has shown it improves them.
+- VIDYA AI is not part of, or approved by, Balbharati or the Maharashtra State Board.
+- We have not named any school that agreed to a trial.
+
+## Leadership
+- Divya Prakash Jha, CEO.
+- Vaibhav Jain, COO.
+- Zeeshan Khan, CMO.
+
+## What works now and what is planned
+- Typed textbook questions: WORKS NOW. Only the books in the app
+- Answers without internet after setup: WORKS NOW. The regular app is not allowed to use the internet
+- “Looked in your book” label: WORKS NOW. Shows where it looked, not that the answer is right
+- Chats saved and deletable on the phone: WORKS NOW. Someone using an unlocked phone may still read them
+- English · Marathi · Hindi · Hinglish answers: WORKS NOW. Answers can be unclear or in another language
+- Study buddy, last-chapter reminder, revision reminder: WORKS NOW. Still being checked on different phones
+- Answer checking and practice questions: TURNED OFF FOR NOW. Turned off until it is tested more
+- School link, parent permission, in-app downloads: BEING TESTED SEPARATELY. Only in a separate test version that can go online
+- Voice questions: PLANNED. Planned
+- Reading homework photos, step-by-step maths: PLANNED. Planned
+- Parent and teacher summaries: PLANNED. Being built. Not ready to use yet
+- Play Store download: PLANNED. Not yet. Contact us to ask how to get it
+
+## Questions and answers
+Q: What is VIDYA AI?
+A: VIDYA AI helps Maharashtra State Board students in Classes 5 to 10 with textbook questions on an Android phone. It looks in the books on the phone, then writes an answer.
+
+Q: Who is it for?
+A: It is for students who use the Balbharati books in the app, and their parents. It is also for schools that want a small trial. Teachers can check if it suits their classes.
+
+Q: Does it need internet?
+A: No. Once the app and books are on the phone, it answers without internet. The regular app is not allowed to use the internet. For now, you copy the files over with a USB cable. A separate test version can go online.
+
+Q: Is every textbook covered?
+A: No. There are 33 sets of textbook files for Classes 5 to 10, in English and Marathi. 19 sets also have Hindi. Some books are missing or need fixes. Check your book before setup.
+
+Q: Is it available for CBSE, ICSE or every state board?
+A: It is made for Maharashtra State Board books. We have not confirmed any other boards.
+
+Q: Can my child ask in Marathi, Hindi or Hinglish?
+A: Yes. But some answers may be unclear or in the wrong language. If you choose Marathi, the menus are still in English. Try your language first before you rely on it.
+
+Q: Are all answers correct?
+A: No. It can miss facts, pick the wrong chapter, or give a wrong or unclear answer. Check important answers in your textbook or with a teacher.
+
+Q: What does “Looked in your book” mean?
+A: It is the book label. It shows which part of the book it looked in. It does not prove the answer is right. It does not show the page number yet.
+
+Q: Why can the first answer take time?
+A: The app needs time to open the book and get the AI file ready. On the test phone, a new chapter could take about a minute or longer. Starting the app after it was fully closed could take two to three minutes. Other phones may differ.
+
+Q: Can students speak their questions?
+A: Not in the regular app. Speaking questions is planned.
+
+Q: Can it read homework photos or handwritten papers?
+A: Not now. Reading homework photos is planned.
+
+Q: Can it solve maths step by step?
+A: Not yet. A step-by-step maths tool is planned. Check your sums and methods with a teacher.
+
+Q: Does it automatically test or mark my child?
+A: No. Practice questions and answer checking are turned off in the regular app.
+
+Q: Will I get a parent progress report?
+A: Not yet. Reports for parents are being built. There is no report page or service you can use yet.
+
+Q: Are study chats uploaded?
+A: No. The regular app keeps chats on the phone and is not allowed to use the internet. A separate test version can send a small study log after a parent says yes. It has no questions, answers or chats.
+
+Q: Can my child delete chats?
+A: Yes. Chats can be deleted, and Settings can clear all chats. If you join a trial of the test version, you should first be told how its records are used and deleted.
+
+Q: Does VIDYA AI replace school or tuition?
+A: No. VIDYA AI is extra study help. It does not replace teachers. It makes no promise about marks, and it cannot meet every study need.
+
+Q: Is it free?
+A: The current student app is described as free to use. After setup, answering uses no mobile data. We have not shared prices for setup help, school trials or future services.
+
+Q: Can I install it from the Play Store?
+A: Not yet. Contact us to ask about the books you need, whether it works on your phone and how to set it up.
+
+Q: Does it work on every Android phone?
+A: We do not know yet. Space, memory and speed must be checked on your phone. Testing on low-cost phones is not finished.
+
+Q: Is there an iPhone version?
+A: We have not confirmed an iPhone version. The current app is for Android phones.
+
+Q: Can a school start using it for all students immediately?
+A: No. First we talk about which students, books and phones, and how to keep their information private. The school version is still a separate test version. It is not ready for a whole school.
+
+## Articles
+- Why questions come after school, and how that shaped VIDYA AI (2026-09-29, Divya Prakash Jha, CEO) — A confusing line in a chapter rarely comes up in class. It comes up at 7:40 pm, with no teacher nearby and no steady internet. That moment is why we built the app. https://vidyaai.si/insights/why-the-doubt-comes-after-school
+- Working without internet is not an extra. It is a limit we built around. (2026-09-22, Vaibhav Jain, COO) — The regular VIDYA AI app is not allowed to use the internet at all. Here is what that cost us, what it protects, and why setup still needs a USB cable. https://vidyaai.si/insights/offline-is-not-a-feature-it-is-a-constraint
+- What the “Looked in your book” label means, and what it does not (2026-09-15, VIDYA AI team) — Under a new reply, VIDYA AI shows the class, subject and chapter it looked in. That label is the most honest thing in the app. It is also easy to over-trust. https://vidyaai.si/insights/what-looked-in-your-book-actually-means
+- Why answer checking is turned off in the student app (2026-09-08, Divya Prakash Jha, CEO) — VIDYA AI can write a reply. It cannot yet be trusted to tell a child that their own answer is wrong. So we turned that feature off. Here is why. https://vidyaai.si/insights/why-answer-checking-is-switched-off
+- No streaks, no badges, no alerts: designing a study app a child can put down (2026-09-01, Zeeshan Khan, CMO) — Most apps are built to be opened every day. VIDYA AI is built to be opened when there is a question. That changes almost every design decision. https://vidyaai.si/insights/no-streaks-no-badges-no-alerts
+- Two apps, two sets of rules: the regular app and the online test version (2026-08-25, Vaibhav Jain, COO) — One VIDYA AI app is not allowed to use the internet. A separate test version can link to a school. Schools and families need to know which one they get. https://vidyaai.si/insights/two-apps-two-sets-of-rules
+- How to run a small, honest school trial of a study app (2026-08-18, Zeeshan Khan, CMO) — A trial is a way to learn, not a launch. Five steps that keep it small enough to be useful and honest enough to be worth the teachers' time. https://vidyaai.si/insights/how-to-run-a-small-honest-school-trial
+- What we learned from 33 book sets and 461 chapters (2026-08-11, VIDYA AI team) — Putting Balbharati textbooks into a phone sounds like simple copying. It turned out to be the hardest part, and the part that most decides whether the app helps a child. https://vidyaai.si/insights/what-we-learned-from-thirty-three-book-sets
+- Marathi, Hindi and Hinglish: where the app is, in plain words (2026-08-04, Divya Prakash Jha, CEO) — You can ask VIDYA AI in four languages. The replies are not equally good in all four, and a Hinglish question can come back in Marathi. Here is the current state. https://vidyaai.si/insights/marathi-hindi-hinglish-where-we-are
+
+## Pages
+- Home: https://vidyaai.si/
+- For students: https://vidyaai.si/students
+- For parents: https://vidyaai.si/parents
+- For schools: https://vidyaai.si/schools
+- Books and languages: https://vidyaai.si/books-and-languages
+- How it works: https://vidyaai.si/how-it-works
+- Privacy and safety: https://vidyaai.si/privacy-and-care
+- How to get it: https://vidyaai.si/access
+- About us: https://vidyaai.si/about
+- What's coming next: https://vidyaai.si/whats-next
+- Questions and answers: https://vidyaai.si/faq
+- See it work: https://vidyaai.si/watch
+- Brochure: https://vidyaai.si/brochure
+- Articles: https://vidyaai.si/insights
+- Contact us: https://vidyaai.si/contact
+- Plain facts page: https://vidyaai.si/ai
+- All the facts: https://vidyaai.si/ai/fact-sheet
+- What works now and what is planned: https://vidyaai.si/ai/features
+- When it helps: https://vidyaai.si/ai/use-cases
+- Comparing it fairly: https://vidyaai.si/ai/comparison-notes
